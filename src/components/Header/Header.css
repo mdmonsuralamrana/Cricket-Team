@@ -1,0 +1,14 @@
+.header{
+    background-image: linear-gradient(90deg, #181818a1 , #0a0a0a9f), url(../../Photo/stadium.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+}
+
+.header h1 {
+    padding-top: 80px;
+    font-size: 80px;
+    color: white;
+}

@@ -1,0 +1,11 @@
+.home-container{
+    background-color: #f08080;
+    padding-top: 50px;
+}
+.home-box{
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
